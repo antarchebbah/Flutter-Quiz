@@ -1,4 +1,4 @@
-# flutter_quiz
+# Flutter Quiz Application
 
 Mobile Application that test your skill in (Flutter & Dart).
 
